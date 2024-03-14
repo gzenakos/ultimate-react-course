@@ -4,7 +4,7 @@ This branch of the repo contains starter files and final code for all sections a
 
 Use starter code to start each section, and **final code to compare it with your own code whenever something doesn't work**!
 
-There is also a the [updates-and-fixes](https://github.com/jonasschmedtmann/ultimate-react-course/tree/updates-and-fixes) branch which is kept up-to-date with **latest library updates and important bugfixes 🐛**
+There is also a the [updates-and-fixes](https://github.com/gzenakos/ultimate-react-course/tree/updates-and-fixes) branch which is kept up-to-date with **latest library updates and important bugfixes 🐛**
 
 🚨 **_Please read the following Frequently Asked Questions (FAQ) carefully before starting the course_** 🚨
 
@@ -12,7 +12,7 @@ There is also a the [updates-and-fixes](https://github.com/jonasschmedtmann/ulti
 
 ### Q1: How do I download the files?
 
-**A:** If you just want to download the entire code, click the green button saying "Code", and then choose the "Download ZIP" option. If you can't see the button (on mobile), use [this link](https://github.com/jonasschmedtmann/ultimate-react-course/archive/main.zip) instead.
+**A:** If you just want to download the entire code, click the green button saying "Code", and then choose the "Download ZIP" option. If you can't see the button (on mobile), use [this link](https://github.com/gzenakos/ultimate-react-course/archive/main.zip) instead.
 
 ### Q2: I'm stuck! Where do I get help?
 
